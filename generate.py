@@ -27,7 +27,7 @@ W+'''    m        "           #        mmm
     #mmmmm mm#mm  #   #  #  "m   "mmm" "#mm"  #   #
 ''')
 
-def jalan(z):
+def Sonajan(z):
     for e in z + '\n':
         sys.stdout.write(e)
         sys.stdout.flush()
@@ -48,9 +48,9 @@ def main():
 		time.sleep(4)
 		main()
 	else:
-		jalan(Y+"["+G+"+"+Y+"]"+R+" Link : "+G+"https://api.whatsapp.com/send?phone="+no+"&text="+pesan) 
+		Sonajan (Y+"["+G+"+"+Y+"]"+R+" Link : "+G+"https://api.whatsapp.com/send?+98 903 138 2386="+no+"&text="+pesan) 
 		print
 		print
 
-if __name__ == '__main__':
+if __name_sonajan_ == '__main_javid_':
 	main()
